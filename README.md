@@ -2,17 +2,33 @@
 
 Welcome to the **GastroApp** repository! 🎉 This Android application helps food lovers 🍕🍣🍔 find the best restaurants based on location, preferences, and reviews.  
 
-## **Table of Contents**
+## **📌 Table of Contents**  
+- 📖 [Overview](#overview)  
+- 🚀 [Features](#features)  
+- 🧑‍💻 [Technologies](#technologies)  
+- 📸 [App Screenshot](#app-screenshot)
+- 🤝 [Contributing](#contributing)  
+## **📖 Overview**  
+**GastroApp** is an Android app that allows users to easily discover top-rated restaurants nearby. With personalized recommendations, detailed reviews, and interactive maps, it's the perfect tool for finding new dining experiences.  
 
-- [Features]-🚀(#Features)   
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
+## **🚀 Features**  
+- 🍔 **Restaurant Discovery**: Find top-rated restaurants nearby!  
+- 🗺️ **Location-based Recommendations**: Personalized suggestions based on your location and preferences.  
+- ⭐ **User Reviews & Ratings**: View ratings and reviews from other users to make informed decisions.  
+- 📍 **Interactive Map**: Navigate to your favorite restaurants easily with Google Maps integration.  
+- ❤️ **Favorites**: Save your favorite spots for quick access.  
 
-## **Features**  
+## **🧑‍💻 Technologies**  
+- 📝 **Kotlin**: Modern and expressive programming language for Android development.  
+- 🔥 **Firebase**: Authentication, Firestore for real-time database, and Firebase Storage for media management.  
+- 🌍 **Google APIs**: Location services and Maps integration for discovering restaurants.  
+- 🏗️ **MVC Architecture**: Model-View-Controller design pattern for clean separation of concerns.  
 
-- Find top-rated restaurants near you  
-- Browse restaurant details and reviews  
-- Personalized recommendations based on your preferences  
+## **📸 App Screenshot**  
+![App Screenshot](your-screenshot.png)  
 
-Happy exploring and bon appétit! 🍽️😋  
+## **🤝 Contributing**  
+Contributions are welcome! Feel free to submit a pull request or open an issue.  
+
+## **📄 License**  
+This project is licensed under the MIT License.  
