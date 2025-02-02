@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_color"
+    android:orientation="vertical"
+    tools:context=".activity.SplashActivity">
+
+    <ImageView
+        android:id="@+id/travel_app_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="170sp"
+        android:layout_marginTop="100sp"
+        android:contentDescription="@string/todo"
+        android:padding="130sp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20sp"
+        android:padding="40sp"
+        android:text="@string/textView01"
+        android:textColor="@color/black"
+        android:textSize="@dimen/splash_screen_title_text_size" />
+
+</LinearLayout>

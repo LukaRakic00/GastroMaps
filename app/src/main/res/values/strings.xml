@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GastroMaps</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="note_text_no_happy_places_found_yet">No Favourite Restaurants Found Yet. Kindly Add One</string>
+    <string name="image_content_description">Image</string>
+    <string name="google_maps_key">AIzaSyBiR3zBpM1h8wLA3Z4RysZfCbVrXo3khco</string>
+
+    <string name="full_name">Full Name</string>
+
+
+    <!-- za Dialog progress bar-->
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait…</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="_381">+ 381</string>
+    <string name="email">Email</string>
+    <string name="select_this_restaurant">Select This Restaurant</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s get started</string>
+
+    <string name="intro_text_description">Discover and Remember Your Favorite Food Spots with GastroMaps - Your Personal Restaurant Memory Book</string>
+    <string name="todo">TODO</string>
+    <string name="textView01">Gastro Maps</string>
+</resources>

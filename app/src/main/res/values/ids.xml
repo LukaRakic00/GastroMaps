@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextMobile" type="id" />
+    <item name="textInputMobile" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="textInputName" type="id" />
+</resources>

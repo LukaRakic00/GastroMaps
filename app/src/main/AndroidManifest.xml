@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup">
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomNoActionBarTheme">
+        </activity>
+
+        <activity
+            android:name=".activity.AddHappyPlaceActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:label="ADD HAPPY PLACE"
+            android:theme="@style/CustomNoActionBarTheme"/>
+
+        <activity
+            android:name=".activity.SignUpActivity"
+            android:exported="true"
+            android:theme="@style/NoActionBarTheme">
+        </activity>
+
+        <activity
+            android:name=".activity.SignInActivity"
+            android:exported="false"
+            android:theme="@style/NoActionBarTheme" />
+
+        <activity
+            android:name=".activity.BaseActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activity.HappyPlaceDetailActivity"
+            android:label="Place Details"
+            android:theme="@style/CustomNoActionBarTheme"
+            android:exported="false"/>
+
+        <activity
+            android:name=".activity.MapActivity"
+            android:label="Select Location"
+            android:theme="@style/CustomNoActionBarTheme"
+            android:exported="false"/>
+
+        <activity
+            android:name=".activity.IntroActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
+        <activity
+            android:name=".activity.SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.gastromaps.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBiR3zBpM1h8wLA3Z4RysZfCbVrXo3khco" />
+    </application>
+</manifest>
