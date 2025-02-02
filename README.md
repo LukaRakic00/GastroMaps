@@ -3,7 +3,7 @@
 Welcome to the **GastroApp** repository! 🎉 This Android application helps food lovers 🍕🍣🍔 find the best restaurants based on location, preferences, and reviews.  
 
 ## **📌 Table of Contents**  
-- 📖 **[Overview](#overview)  
+- 📖 [**Overview](#overview)  
 - 🚀 [Features](#features)  
 - 🧑‍💻 [Technologies](#technologies)  
 - 📸 [App Screenshot](#app-screenshot)  
