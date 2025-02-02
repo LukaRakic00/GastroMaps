@@ -6,8 +6,9 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 - 📖 [Overview](#overview)  
 - 🚀 [Features](#features)  
 - 🧑‍💻 [Technologies](#technologies)  
-- 📸 [App Screenshot](#app-screenshot)
+- 📸 [App Screenshot](#app-screenshot)  
 - 🤝 [Contributing](#contributing)  
+
 ## **📖 Overview**  
 **GastroApp** is an Android app that allows users to easily discover top-rated restaurants nearby. With personalized recommendations, detailed reviews, and interactive maps, it's the perfect tool for finding new dining experiences.  
 
@@ -29,6 +30,3 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 
 ## **🤝 Contributing**  
 Contributions are welcome! Feel free to submit a pull request or open an issue.  
-
-## **📄 License**  
-This project is licensed under the MIT License.  
