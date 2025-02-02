@@ -4,7 +4,7 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 
 ## **Table of Contents**
 
-- [Features](-🚀 #Features)   
+- [Features]-🚀(#Features)   
 - [Usage](#usage)  
 - [Contributing](#contributing)  
 - [License](#license)  
