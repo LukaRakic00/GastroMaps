@@ -5,7 +5,7 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 ## **📌 Table of Contents**  
 - 📖 **[Overview](#overview)** 
 - 🚀 **[Features](#features)** 
-- 🧑‍💻 **[Technologies](#technologies)**  
+-  **[🧑‍💻 Technologies](#technologies)**  
 - 📸 **[App Screenshot](#app-screenshot)**  
 - 🤝 **[Contributing](#contributing)**  
 
@@ -19,7 +19,7 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 - 📍 **Interactive Map**: Navigate to your favorite restaurants easily with Google Maps integration.  
 - ❤️ **Favorites**: Save your favorite spots for quick access.  
 
-##  **Technologies**  
+##  **🧑‍💻 Technologies**  
 - 📝 **Kotlin**: Modern and expressive programming language for Android development.  
 - 🔥 **Firebase**: Authentication, Firestore for real-time database, and Firebase Storage for media management.  
 - 🌍 **Google APIs**: Location services and Maps integration for discovering restaurants.  
