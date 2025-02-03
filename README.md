@@ -23,7 +23,7 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 - 📝 **Kotlin**: Modern and expressive programming language for Android development.  
 - 🔥 **Firebase**: Authentication, Firestore for real-time database, and Firebase Storage for media management.  
 - 🌍 **Google APIs**: Location services and Maps integration for discovering restaurants.  
-- 🏗️ **MVC Architecture**: Model-View-Controller design pattern for clean separation of concerns.  
+- 🏗️ **MVC Architecture**: Model-View-Controller design pattern for clean separation of concerns. a 
 
 ##  **App Screenshot**  
 ![App Screenshot](gastroMaps.png)  
