@@ -26,7 +26,7 @@ Welcome to the **GastroApp** repository! 🎉 This Android application helps foo
 - 🏗️ **MVC Architecture**: Model-View-Controller design pattern for clean separation of concerns.  
 
 ## **📸 App Screenshot**  
-![App Screenshot](your-screenshot.png)  
+![App Screenshot](gastroMaps.png)  
 
 ## **🤝 Contributing**  
 Contributions are welcome! Feel free to submit a pull request or open an issue.  
